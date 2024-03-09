@@ -1,0 +1,1 @@
+# olehratinskiy-terraform-azurerm-securestorage
